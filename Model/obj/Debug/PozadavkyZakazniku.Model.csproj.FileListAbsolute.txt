@@ -1,0 +1,5 @@
+c:\users\lukas\documents\visual studio 2017\Projects\PozadavkyZakazniku\Model\bin\Debug\PozadavkyZakazniku.Model.dll
+c:\users\lukas\documents\visual studio 2017\Projects\PozadavkyZakazniku\Model\bin\Debug\PozadavkyZakazniku.Model.pdb
+c:\users\lukas\documents\visual studio 2017\Projects\PozadavkyZakazniku\Model\obj\Debug\PozadavkyZakazniku.Model.csprojResolveAssemblyReference.cache
+c:\users\lukas\documents\visual studio 2017\Projects\PozadavkyZakazniku\Model\obj\Debug\PozadavkyZakazniku.Model.dll
+c:\users\lukas\documents\visual studio 2017\Projects\PozadavkyZakazniku\Model\obj\Debug\PozadavkyZakazniku.Model.pdb

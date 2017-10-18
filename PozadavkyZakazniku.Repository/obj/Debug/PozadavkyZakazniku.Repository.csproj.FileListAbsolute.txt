@@ -1,0 +1,16 @@
+c:\users\lukas\documents\visual studio 2017\Projects\PozadavkyZakazniku\PozadavkyZakazniku.Repository\bin\Debug\PozadavkyZakazniku.Repository.dll.config
+c:\users\lukas\documents\visual studio 2017\Projects\PozadavkyZakazniku\PozadavkyZakazniku.Repository\bin\Debug\PozadavkyZakazniku.Repository.dll
+c:\users\lukas\documents\visual studio 2017\Projects\PozadavkyZakazniku\PozadavkyZakazniku.Repository\bin\Debug\PozadavkyZakazniku.Repository.pdb
+c:\users\lukas\documents\visual studio 2017\Projects\PozadavkyZakazniku\PozadavkyZakazniku.Repository\bin\Debug\AutoMapper.dll
+c:\users\lukas\documents\visual studio 2017\Projects\PozadavkyZakazniku\PozadavkyZakazniku.Repository\bin\Debug\EntityFramework.dll
+c:\users\lukas\documents\visual studio 2017\Projects\PozadavkyZakazniku\PozadavkyZakazniku.Repository\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\lukas\documents\visual studio 2017\Projects\PozadavkyZakazniku\PozadavkyZakazniku.Repository\bin\Debug\PozadavkyZakazniku.Model.dll
+c:\users\lukas\documents\visual studio 2017\Projects\PozadavkyZakazniku\PozadavkyZakazniku.Repository\bin\Debug\PozadavkyZakazniku.Model.pdb
+c:\users\lukas\documents\visual studio 2017\Projects\PozadavkyZakazniku\PozadavkyZakazniku.Repository\bin\Debug\AutoMapper.xml
+c:\users\lukas\documents\visual studio 2017\Projects\PozadavkyZakazniku\PozadavkyZakazniku.Repository\bin\Debug\EntityFramework.xml
+c:\users\lukas\documents\visual studio 2017\Projects\PozadavkyZakazniku\PozadavkyZakazniku.Repository\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\lukas\documents\visual studio 2017\Projects\PozadavkyZakazniku\PozadavkyZakazniku.Repository\obj\Debug\PozadavkyZakazniku.Repository.csprojResolveAssemblyReference.cache
+c:\users\lukas\documents\visual studio 2017\Projects\PozadavkyZakazniku\PozadavkyZakazniku.Repository\obj\Debug\PozadavkyZakazniku.Repository.dll
+c:\users\lukas\documents\visual studio 2017\Projects\PozadavkyZakazniku\PozadavkyZakazniku.Repository\obj\Debug\PozadavkyZakazniku.Repository.pdb
+C:\Users\lukas\documents\visual studio 2017\Projects\PozadavkyZakazniku\PozadavkyZakazniku.Repository\obj\Debug\PozadavkyZakazniku.Repository.Migrations.Init.resources
+C:\Users\lukas\documents\visual studio 2017\Projects\PozadavkyZakazniku\PozadavkyZakazniku.Repository\obj\Debug\PozadavkyZakazniku.Repository.csproj.GenerateResource.Cache

@@ -1,0 +1,14 @@
+c:\users\lukas\documents\visual studio 2017\Projects\PozadavkyZakazniku\PozadavkyZakazniku.Service\bin\Debug\PozadavkyZakazniku.Service.dll
+c:\users\lukas\documents\visual studio 2017\Projects\PozadavkyZakazniku\PozadavkyZakazniku.Service\bin\Debug\PozadavkyZakazniku.Service.pdb
+c:\users\lukas\documents\visual studio 2017\Projects\PozadavkyZakazniku\PozadavkyZakazniku.Service\bin\Debug\PozadavkyZakazniku.Model.dll
+c:\users\lukas\documents\visual studio 2017\Projects\PozadavkyZakazniku\PozadavkyZakazniku.Service\bin\Debug\PozadavkyZakazniku.Repository.dll
+c:\users\lukas\documents\visual studio 2017\Projects\PozadavkyZakazniku\PozadavkyZakazniku.Service\bin\Debug\PozadavkyZakazniku.Model.pdb
+c:\users\lukas\documents\visual studio 2017\Projects\PozadavkyZakazniku\PozadavkyZakazniku.Service\bin\Debug\PozadavkyZakazniku.Repository.pdb
+c:\users\lukas\documents\visual studio 2017\Projects\PozadavkyZakazniku\PozadavkyZakazniku.Service\bin\Debug\PozadavkyZakazniku.Repository.dll.config
+c:\users\lukas\documents\visual studio 2017\Projects\PozadavkyZakazniku\PozadavkyZakazniku.Service\obj\Debug\PozadavkyZakazniku.Service.csprojResolveAssemblyReference.cache
+c:\users\lukas\documents\visual studio 2017\Projects\PozadavkyZakazniku\PozadavkyZakazniku.Service\obj\Debug\PozadavkyZakazniku.Service.dll
+c:\users\lukas\documents\visual studio 2017\Projects\PozadavkyZakazniku\PozadavkyZakazniku.Service\obj\Debug\PozadavkyZakazniku.Service.pdb
+c:\users\lukas\documents\visual studio 2017\Projects\PozadavkyZakazniku\PozadavkyZakazniku.Service\bin\Debug\EntityFramework.dll
+c:\users\lukas\documents\visual studio 2017\Projects\PozadavkyZakazniku\PozadavkyZakazniku.Service\bin\Debug\EntityFramework.xml
+C:\Users\lukas\documents\visual studio 2017\Projects\PozadavkyZakazniku\PozadavkyZakazniku.Service\bin\Debug\AutoMapper.dll
+C:\Users\lukas\documents\visual studio 2017\Projects\PozadavkyZakazniku\PozadavkyZakazniku.Service\bin\Debug\AutoMapper.xml
